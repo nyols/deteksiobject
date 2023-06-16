@@ -9,7 +9,7 @@ TELEGRAM_TOKEN = '6080089796:AAHYeI_shzMxq7rZzVc4QgRMDg3NUM1puwA'
 # ID chat Telegram yang akan menerima pemberitahuan
 TELEGRAM_CHAT_ID = '1166169052'
 
-classes = ["lulur"]
+classes = ["mie"]
 cap = cv2.VideoCapture(0)
 net = cv2.dnn.readNetFromONNX("best.onnx")
 
